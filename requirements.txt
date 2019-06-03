@@ -1,0 +1,7 @@
+Fabric
+Flask-SQLAlchemy
+Flask-WTF
+WTForms
+coverage
+fuzzywuzzy
+python-levenshtein
